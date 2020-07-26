@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi! 👋 Thanks for stopping by! 
 
-<!--
-**ltruncel/ltruncel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I am a machine learning engineer with a passion for natural language processing. 
+
+### 🌱 I'm currently working on two scholarship courses: Microsoft Azure Machine Learning and Nutanix Hybrid Cloud, both of which are offered through Udacity.
+
+### :sparkling_heart: I believe in education, collaboratiion, responsible AI, integrity, and a good heart.
+
+### :coffee: Happy to connect! :smile: : 
+  - https://www.linkedin.com/in/ltruncel/
+  - https://twitter.com/ltruncel
+
+
