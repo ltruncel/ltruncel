@@ -6,7 +6,7 @@
 
 ### 🌱 I'm currently working on two scholarship courses: Microsoft Azure Machine Learning and Nutanix Hybrid Cloud, both of which are offered through Udacity.
 
-### :sparkling_heart: I believe in education, collaboratiion, responsible AI, integrity, and a good heart.
+### :sparkling_heart: I believe in integrity, collaboratiion, responsible AI, education, and a good heart.
 
 ### :coffee: Happy to connect! :smile: : 
   - https://www.linkedin.com/in/ltruncel/
