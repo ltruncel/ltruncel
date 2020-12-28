@@ -7,14 +7,15 @@
 ### 🌱 I've received scholarships from Google, Facebook, Intel, Microsoft, Nutanix, and Bertelsmann.  
 
 ### :woman_student: I have completed the following Nanodegrees by Udacity: 
-- **Intro to Programming (HTML, CSS, JavaScript),** 
-- **Front-End Developer (JavaScript, Ajax, jQuery, React),**
-- **Machine Learning Engineer,** 
-- **Deep Learning,** 
-- **Natural Language Processing,** 
-- **AI for Trading,** 
-- **AI Programming with Python, and** 
-- **Intel Edge AI for IoT Developers.** 
+
+- **Intel Edge AI for IoT Developers** 
+- **AI Programming with Python**
+- **AI for Trading**
+- **Natural Language Processing**
+- **Deep Learning** 
+- **Machine Learning Engineer**
+- **Front-End Developer (JavaScript, Ajax, jQuery, React)**
+- **Intro to Programming (HTML, CSS, JavaScript)** 
 
 ### :construction_worker_woman: I'm currently working on Machine Learning Engineer with Microsoft Azure and Hybrid Cloud Enginner Nanodegrees.  I'm also going through the Bertelsmann Tech Scholarship Challenge Course - Introduction to Problem Solving with Advanced Analytics. 
 
