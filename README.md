@@ -8,7 +8,7 @@
 
 ### :woman_student: I have completed the following Nanodegrees by Udacity: 
 
-### - **Intel Edge AI for IoT Developers** 
+### :black_small_square: **Intel Edge AI for IoT Developers** 
 ### - **AI Programming with Python**
 ### - **AI for Trading**
 ### - **Natural Language Processing**
