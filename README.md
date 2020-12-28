@@ -8,14 +8,14 @@
 
 ### :woman_student: I have completed the following Nanodegrees by Udacity: 
 
-- **Intel Edge AI for IoT Developers** 
-- **AI Programming with Python**
-- **AI for Trading**
-- **Natural Language Processing**
-- **Deep Learning** 
-- **Machine Learning Engineer**
-- **Front-End Developer (JavaScript, Ajax, jQuery, React)**
-- **Intro to Programming (HTML, CSS, JavaScript)** 
+### - **Intel Edge AI for IoT Developers** 
+### - **AI Programming with Python**
+### - **AI for Trading**
+### - **Natural Language Processing**
+### - **Deep Learning** 
+### - **Machine Learning Engineer**
+### - **Front-End Developer (JavaScript, Ajax, jQuery, React)**
+### - **Intro to Programming (HTML, CSS, JavaScript)** 
 
 ### :construction_worker_woman: I'm currently working on Machine Learning Engineer with Microsoft Azure and Hybrid Cloud Enginner Nanodegrees.  I'm also going through the Bertelsmann Tech Scholarship Challenge Course - Introduction to Problem Solving with Advanced Analytics. 
 
