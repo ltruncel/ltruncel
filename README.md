@@ -6,7 +6,7 @@
 
 ### 🌱 I've received scholarships from Google, Facebook, Intel, Microsoft, Nutanix, and Bertelsmann.  
 
-### I have completed the following Nanodegrees by Udacity: 
+### :nerd_face: I have completed the following Nanodegrees by Udacity: 
 - Intro to Programming (HTML, CSS, JavaScript), 
 - Front-End Developer (JavaScript, Ajax, jQuery, React), 
 - Machine Learning Engineer, 
