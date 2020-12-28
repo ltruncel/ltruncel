@@ -11,10 +11,10 @@
 - **Front-End Developer (JavaScript, Ajax, jQuery, React),**
 - **Machine Learning Engineer,** 
 - **Deep Learning,** 
-- **Natural Language Processing, 
-- **AI for Trading, 
-- **AI Programming with Python, and 
-- **Intel Edge AI for IoT Developers. 
+- **Natural Language Processing,** 
+- **AI for Trading,** 
+- **AI Programming with Python, and** 
+- **Intel Edge AI for IoT Developers.** 
 
 ### :construction_worker_woman: I'm currently working on Machine Learning Engineer with Microsoft Azure and Hybrid Cloud Enginner Nanodegrees.  I'm also going through the Bertelsmann Tech Scholarship Challenge Course - Introduction to Problem Solving with Advanced Analytics. 
 
