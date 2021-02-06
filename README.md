@@ -24,5 +24,6 @@
 ### :coffee: Happy to connect! :smile: : 
   - https://www.linkedin.com/in/ltruncel/
   - https://twitter.com/ltruncel
+  - https://www.enployable.com/
 
 
