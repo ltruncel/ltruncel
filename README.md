@@ -1,8 +1,8 @@
 # Hi! 👋 Thanks for stopping by! 
 
+### 🔭 I am the Founder and CEO of Enployable AI
 
-
-### 🔭 I am a machine learning engineer with a passion for natural language processing. 
+### 🔭 I am a machine learning engineer with a focus on LLMs and natural language processing. 
 
 ### 🌱 I've received scholarships from Google, Facebook, Intel, Microsoft, Nutanix, and Bertelsmann.  
 
