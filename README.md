@@ -15,7 +15,7 @@
 - **Deep Learning** 
 - **Machine Learning Engineer**
 - **Front-End Developer (JavaScript, Ajax, jQuery, React)**
-- **Intro to Programming (HTML, CSS, JavaScript)** 
+- **HTML, CSS, JavaScript** 
 
 ### :construction_worker_woman: I'm currently working on Machine Learning Engineer with Microsoft Azure and Hybrid Cloud Enginner Nanodegrees.  I'm also going through the Bertelsmann Tech Scholarship Challenge Course - Introduction to Problem Solving with Advanced Analytics. 
 
