@@ -8,8 +8,9 @@
 
 ### :woman_student: I have completed the following programs: 
 
--**Designing and Building AI Products and Services, MIT** 
--**Applied Data Science, MIT** 
+**Designing and Building AI Products and Services, MIT** 
+
+**Applied Data Science, MIT** 
 **AI and Business Strategy, MIT** 
 **Intel Edge AI for IoT Developers** 
 **AI Programming with Python**
