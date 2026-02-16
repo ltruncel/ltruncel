@@ -8,19 +8,19 @@
 
 ### :woman_student: I have completed the following programs: 
 
-- **Designing and Building AI Products and Services, MIT 
-- **Applied Data Science, MIT 
-- **AI and Business Strategy, MIT 
-- **Intel Edge AI for IoT Developers** 
-- **AI Programming with Python**
-- **AI for Trading**
-- **Natural Language Processing**
-- **Deep Learning** 
-- **Machine Learning Engineer**
-- **Front-End Developer (JavaScript, Ajax, jQuery, React)**
-- **HTML, CSS, JavaScript** 
+- Designing and Building AI Products and Services, MIT 
+- Applied Data Science, MIT 
+- AI and Business Strategy, MIT 
+- Intel Edge AI for IoT Developers** 
+- AI Programming with Python**
+- AI for Trading**
+- Natural Language Processing**
+- Deep Learning** 
+- Machine Learning Engineer**
+- Front-End Developer (JavaScript, Ajax, jQuery, React)**
+- HTML, CSS, JavaScript** 
 
-### :construction_worker_woman: I'm currently working on Machine Learning Engineer with Microsoft Azure and Hybrid Cloud Enginner Nanodegrees.  I'm also going through the Bertelsmann Tech Scholarship Challenge Course - Introduction to Problem Solving with Advanced Analytics. 
+### I'm the founder of Enployable AI, an workforce intelligence platform for construction, manufacturing, and data centers.
 
 ### :sparkling_heart: I believe in integrity, collaboratiion, responsible AI, education, and a good heart. 
 
