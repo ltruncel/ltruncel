@@ -8,17 +8,17 @@
 
 ### :woman_student: I have completed the following programs: 
 
-- Designing and Building AI Products and Services, MIT 
-- Applied Data Science, MIT 
-- AI and Business Strategy, MIT 
-- Intel Edge AI for IoT Developers** 
-- AI Programming with Python**
-- AI for Trading**
-- Natural Language Processing**
-- Deep Learning** 
-- Machine Learning Engineer**
-- Front-End Developer (JavaScript, Ajax, jQuery, React)**
-- HTML, CSS, JavaScript** 
+**Designing and Building AI Products and Services, MIT** 
+**Applied Data Science, MIT** 
+**AI and Business Strategy, MIT** 
+**Intel Edge AI for IoT Developers** 
+**AI Programming with Python**
+**AI for Trading**
+**Natural Language Processing**
+**Deep Learning**
+**Machine Learning Engineer**
+**Front-End Developer (JavaScript, Ajax, jQuery, React)**
+**HTML, CSS, JavaScript** 
 
 ### I'm the founder of Enployable AI, an workforce intelligence platform for construction, manufacturing, and data centers.
 
