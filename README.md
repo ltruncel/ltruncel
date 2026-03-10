@@ -32,7 +32,7 @@
 
 ### I believe in integrity, collaboratiion, responsible AI, education, and a good heart. 
 
-### :coffee: Happy to connect: 
+### Happy to connect:coffee:: 
   - https://www.linkedin.com/in/ltruncel/
   - https://twitter.com/mlmatchmaker
   - https://www.enployable.com/
