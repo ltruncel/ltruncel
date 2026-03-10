@@ -1,12 +1,12 @@
 # Hi! 👋 Thanks for stopping by! 
 
-### 🔭 I am the Founder and CEO of Enployable AI
+### I am the CEO & CTO of Enployable AI, a workforce intelligence platform for construction, manufacturing, and data centers.
 
-### 🔭 I am a machine learning engineer with a focus on LLMs and natural language processing. 
+### I am a machine learning engineer with a focus on LLMs and natural language processing. 
 
-### 🌱 I've received scholarships from Google, Facebook, Intel, Microsoft, Nutanix, and Bertelsmann.  
+### I've received scholarships from Google, Facebook, Intel, Microsoft, Nutanix, and Bertelsmann.  
 
-### :woman_student: I have completed the following programs: 
+### I have completed the following programs: 
 
 **Designing and Building AI Products and Services, MIT** 
 
@@ -28,11 +28,9 @@
 
 **Front-End Developer (JavaScript, Ajax, jQuery, React)**
 
-**HTML, CSS, JavaScript** 
+**HTML, CSS, JavaScript**
 
-### I'm the founder of Enployable AI, an workforce intelligence platform for construction, manufacturing, and data centers.
-
-### :sparkling_heart: I believe in integrity, collaboratiion, responsible AI, education, and a good heart. 
+### I believe in integrity, collaboratiion, responsible AI, education, and a good heart. 
 
 ### :coffee: Happy to connect! :smile: : 
   - https://www.linkedin.com/in/ltruncel/
